@@ -1,4 +1,4 @@
-Sistema de gestión de cuentas: 'Nequi Dos'
+Sistema de gestión de cuentas: 'Nequi Dos'.
 Aplicación de escritorio desarrollada con Windows Forms que simula la gestión básica de cuentas bancarias. Permite crear usuarios, asignar tasas de interés y realizar operaciones como depósitos y retiros, mostrando la información en una interfaz gráfica mediante un DataGrid.
 
 Funcionalidades:
